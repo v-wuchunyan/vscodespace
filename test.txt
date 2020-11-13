@@ -1,1 +1,2 @@
-Git Hellow!....
+Git Hellow!
+Hello world!
